@@ -1,0 +1,87 @@
+Study ID,Diagnosis,age,sex,height,weight,maritial status,race,level of education,years of education,age of onset,age of diagnosis,jewish,dyskinesia,levodopa equivalent dose,UPDRS III total,MOCA total,RBD total,NMSQ total
+CR0001                  ,PD,72,female,62,110,married,Caucasian,high school degree,12,63,64,4 Jewish grandparents,yes,875.1879699,14,21,NA,7
+CR0002                  ,PD,70,female,68,132,NA,Caucasian,some college,15,59,61,no Jewish grandparents,no,500,10,22,1,3
+CR0003                  ,PD,52,male,70,208,NA,Caucasian,bachelor's degree,16,46,47,no Jewish grandparents,no,100,8,24,3,1
+CR0004                  ,control,80,female,NA,NA,NA,Caucasian,master's degree,18,NA,NA,no Jewish grandparents,N/A,0,2,30,1,2
+CR0005                  ,control,71,female,NA,NA,NA,African American,doctorate/ professional degree,22,NA,NA,no Jewish grandparents,N/A,0,0,28,3,1
+CR0006                  ,control,70,male,NA,NA,NA,Caucasian,doctorate/ professional degree,20,NA,NA,no Jewish grandparents,N/A,0,0,28,2,2
+CR0007                  ,AD,68,female,64,134,NA,Caucasian,high school degree,12,NA,NA,no Jewish grandparents,N/A,0,0,16,2,4
+CR0008                  ,PD,80,female,67,118,NA,Caucasian,some college,13,70,72,no Jewish grandparents,no,650,11,17,6,9
+CR0009                  ,control,80,female,63,150,widowed,African American,some college,14,NA,NA,no Jewish grandparents,N/A,0,1,26,5,7
+CR0010                  ,PD,56,male,73,190,NA,Caucasian,master's degree,17,52,53,no Jewish grandparents,no,400,13,29,2,9
+CR0011                  ,control,69,female,65,196,NA,Caucasian,master's degree,17,NA,NA,no Jewish grandparents,N/A,0,1,29,1,0
+CR0012                  ,control,76,male,68,246,single,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,3,27,7,8
+CR0013                  ,control,69,male,70,140,NA,Caucasian,doctorate/ professional degree,21,NA,NA,no Jewish grandparents,N/A,0,0,22,0,1
+CR0014                  ,PD,65,male,68,204,widowed,Caucasian,high school degree,12,52,57,no Jewish grandparents,yes,890,31,27,7,14
+CR0015                  ,control,64,male,70,189,widowed,Caucasian,master's degree,18,NA,NA,no Jewish grandparents,N/A,0,4,29,1,6
+CR0016                  ,PD,50,male,69,180,NA,Caucasian,doctorate/ professional degree,20,NA,NA,no Jewish grandparents,no,350,12,30,4,7
+CR0017                  ,PD,64,male,69,180,NA,Caucasian,bachelor's degree,16,54,54,no Jewish grandparents,yes,1201.503759,8,25,9,13
+CR0018                  ,PD,53,female,67,140,NA,Caucasian,less than high school,11,50,50,no Jewish grandparents,no,940,24,23,7,18
+CR0019                  ,control,81,male,74,147,married,Caucasian,doctorate/ professional degree,19,NA,NA,4 Jewish grandparents,no,0,3,26,0,5
+CR0020                  ,PD,52,female,67,171,separated,Caucasian,bachelor's degree,18,48,48,no Jewish grandparents,no,475,10,30,4,12
+CR0021                  ,PD,69,male,72.5,183,NA,Caucasian,master's degree,18,64,65,no Jewish grandparents,no,560,28,24,4,14
+CR0022                  ,AD,79,male,68,194,NA,Hispanic,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,0,11,1,11
+CR0023                  ,AD,84,male,66,170,married,Caucasian,master's degree,17,NA,NA,no Jewish grandparents,N/A,0,9,19,5,16
+CR0024                  ,AD,86,female,66,142,married,Caucasian,high school degree,12,NA,NA,no Jewish grandparents,N/A,0,9,17,2,4
+CR0025                  ,AD,80,female,64,160,separated,Caucasian,some college,13,NA,NA,no Jewish grandparents,N/A,0,0,8,6,5
+CR0026                  ,AD,84,female,65,158,NA,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,9,17,4,2
+CR0027                  ,AD,78,female,60,150,married,Caucasian,master's degree,18,NA,NA,no Jewish grandparents,N/A,0,17,18,2,4
+CR0028                  ,AD,65,female,63,115,widowed,Caucasian,master's degree,15,NA,NA,no Jewish grandparents,N/A,0,0,15,2,3
+CR0029                  ,AD,76,female,60,180,single,Caucasian,some college,13,NA,NA,no Jewish grandparents,N/A,0,13,19,4,5
+CR0030                  ,AD,53,male,69,197,NA,Caucasian,bachelor's degree,16,48,50,no Jewish grandparents,N/A,0,2,10,2,5
+CR0031                  ,PD,52,male,69,185,NA,Caucasian,high school degree,12,44,46,no Jewish grandparents,no,780,29,27,0,0
+CR0032                  ,AD,45,female,68,135,single,Caucasian,doctorate/ professional degree,20,NA,NA,no Jewish grandparents,N/A,0,3,19,0,2
+CR0033                  ,PD,60,male,71,240,separated,Caucasian,bachelor's degree,16,56,56,no Jewish grandparents,no,1360,13,22,3,14
+CR0034                  ,PD,68,male,70,195,NA,Caucasian,bachelor's degree,16,60,63,no Jewish grandparents,yes,600,24,27,4,12
+CR0035                  ,PD,74,female,62,130,married,Caucasian,some college,13,70,71,no Jewish grandparents,no,650,38,21,3,9
+CR0036                  ,control,74,female,63,93,NA,Caucasian,master's degree,22,NA,NA,no Jewish grandparents,N/A,0,4,30,0,1
+CR0037                  ,PD,65,male,76,225,NA,Caucasian,master's degree,18,NA,NA,no Jewish grandparents,no,1200,33,27,11,22
+CR0038                  ,PD,65,male,70,205,single,Caucasian,bachelor's degree,16,61,62,no Jewish grandparents,no,1075.18797,11,28,2,6
+CR0039                  ,PD,48,male,70,170,married,Caucasian,bachelor's degree,16,41,42,no Jewish grandparents,no,250,35,30,1,4
+CR0040                  ,control,77,female,67,172,separated,Caucasian,bachelor's degree,19,NA,NA,no Jewish grandparents,N/A,0,11,27,1,4
+CR0041                  ,PD,58,female,63,140,married,Caucasian,associate's/ vocational degree,15.5,45,49,no Jewish grandparents,no,225,38,29,4,13
+CR0042                  ,control,70,female,64,200,married,Caucasian,some college,12,NA,NA,no Jewish grandparents,N/A,0,7,26,6,5
+CR0043                  ,PD,58,male,72,205,single,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,no,480,19,26,10,12
+CR0044                  ,control,64,female,60,160,NA,Caucasian,bachelor's degree,17,NA,NA,no Jewish grandparents,N/A,0,2,30,3,1
+CR0045                  ,control,65,female,65,218,NA,African American,master's degree,18,NA,NA,no Jewish grandparents,N/A,0,0,29,5,2
+CR0046                  ,PD,74,male,72,203,married,Caucasian,master's degree,19,NA,NA,no Jewish grandparents,no,300,20,23,5,4
+CR0047                  ,control,66,female,66,210,NA,African American,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,1,29,1,4
+CR0048                  ,control,80,female,64,155,NA,Caucasian,bachelor's degree,18,NA,NA,no Jewish grandparents,N/A,0,7,26,1,3
+CR0049                  ,PD,63,female,64,184,married,Caucasian,some college,14,56,57,no Jewish grandparents,no,793.3333333,20,27,7,10
+CR0050                  ,control,70,male,73,189,married,Caucasian,master's degree,18,NA,NA,no Jewish grandparents,N/A,0,4,28,4,14
+CR0051                  ,PD,53,female,64,274,married,Caucasian,master's degree,18,41,48,no Jewish grandparents,no,750,30,30,5,13
+CR0052                  ,PD,54,male,NA,NA,NA,Caucasian,bachelor's degree,16,46,47,no Jewish grandparents,no,600,7,29,3,6
+CR0053                  ,PD,61,male,NA,NA,NA,Caucasian,bachelor's degree,16,56,56,no Jewish grandparents,no,1480,13,24,1,12
+CR0054                  ,PD,74,female,NA,92.4,NA,Caucasian,high school degree,12,63,64,4 Jewish grandparents,yes,825.9398496,18,22,6,2
+CR0055                  ,control,78,male,NA,NA,NA,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,2,23,4,2
+CR0056                  ,control,66,male,NA,187,NA,Caucasian,master's degree,18,NA,NA,no Jewish grandparents,N/A,0,6,26,1,3
+CR0057                  ,PD,72,female,NA,138,NA,Caucasian,some college,15,59,61,no Jewish grandparents,no,500,12,24,1,3
+CR0058                  ,PD,51,male,NA,195,NA,Caucasian,master's degree,20,NA,NA,no Jewish grandparents,no,300,6,30,7,10
+CR0059                  ,control,72,male,71,187,NA,Caucasian,doctorate/ professional degree,20,NA,NA,no Jewish grandparents,N/A,0,3,28,2,3
+CR0060                  ,PD,66,male,NA,NA,NA,Caucasian,high school degree,12,52,57,no Jewish grandparents,yes,1040,18,28,7,12
+CR0061                  ,PD,81,female,NA,128,NA,Caucasian,some college,13,70,72,no Jewish grandparents,yes,650,14,17,6,9
+CR0062                  ,PD,58,male,NA,185,NA,Caucasian,bachelor's degree,16,52,53,no Jewish grandparents,no,400,10,30,2,13
+CR0063                  ,PD,53,female,NA,NA,NA,Caucasian,master's degree,18,48,48,no Jewish grandparents,no,750.1879699,4,30,5,7
+CR0064                  ,PD,66,male,NA,166,NA,Caucasian,bachelor's degree,16,46,48,no Jewish grandparents,yes,1001.12782,4,26,NA,13
+CR0065                  ,control,82,male,NA,NA,NA,Caucasian,doctorate/ professional degree,20,NA,NA,4 Jewish grandparents,N/A,0,4,30,1,4
+CR0066                  ,PD,54,female,NA,169,NA,Caucasian,less than high school,11,50,50,no Jewish grandparents,no,1050,21,23,NA,11
+CR0067                  ,control,78,female,NA,176,NA,Caucasian,bachelor's degree,18,NA,NA,no Jewish grandparents,N/A,0,2,27,2,5
+CR0068                  ,control,75,female,NA,94,NA,Caucasian,master's degree,22,NA,NA,no Jewish grandparents,N/A,0,2,29,NA,3
+CR0069                  ,PD,59,male,NA,232,NA,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,no,450,7,28,11,12
+CR0070                  ,PD,54,female,NA,261.8,NA,Caucasian,master's degree,18,41,48,no Jewish grandparents,no,750,6,30,8,NA
+CR0071                  ,control,65,female,NA,158,NA,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,1,29,6,2
+CR0072                  ,control,70,male,NA,131,NA,Caucasian,master's degree,21,NA,NA,no Jewish grandparents,N/A,0,0,26,2,0
+CR0073                  ,control,71,female,NA,NA,NA,Caucasian,high school degree,12,NA,NA,no Jewish grandparents,N/A,0,6,29,7,10
+CR0074                  ,control,67,female,NA,200,NA,African American,bachelor's degree,16,NA,NA,no Jewish grandparents,N/A,0,0,28,2,6
+CR0075                  ,PD,66,male,NA,196,NA,Caucasian,bachelor's degree,16,61,62,no Jewish grandparents,yes,1241.854637,3,30,4,4
+CR0076                  ,PD,66,male,NA,NA,NA,Caucasian,some college,14,54,57,no Jewish grandparents,yes,1542.424242,22,21,NA,NA
+CR0077                  ,PD,62,female,NA,NA,NA,Caucasian,associate's/ vocational degree,14,55,55,no Jewish grandparents,no,780,NA,NA,3,10
+CR0078                  ,PD,74,male,NA,NA,NA,NA,NA,NA,67,67,NA,NA,450,NA,NA,3,7
+CR0079                  ,PD,55,female,NA,112,NA,Caucasian,bachelor's degree,16,NA,NA,no Jewish grandparents,yes,410,0,29,5,10
+CR0080                  ,control,66,female,NA,NA,NA,African American,master's degree,17,NA,NA,no Jewish grandparents,N/A,0,0,28,7,5
+CR0081                  ,PD,66,female,NA,NA,NA,Caucasian,bachelor's degree,18,62,63,no Jewish grandparents,no,560,16,25,11,NA
+CR0082                  ,PD,65,female,NA,NA,NA,Caucasian,master's degree,21,56,57,no Jewish grandparents,no,1100,16,30,2,8
+CR0083                  ,PD,60,male,NA,NA,NA,Caucasian,master's degree,19,49,50,no Jewish grandparents,NA,1450.37594,NA,26,5,NA
+CR0084                  ,control,69,female,NA,NA,NA,Caucasian,bachelor's degree,17,NA,NA,no Jewish grandparents,N/A,0,3,28,NA,3
+CR0085                  ,PD,52,female,NA,NA,NA,Caucasian,high school degree,12,43,43,no Jewish grandparents,yes,660,10,29,9,16
+CR0086                  ,control,68,female,NA,190,NA,African American,master's degree,18,NA,NA,no Jewish grandparents,N/A,NA,5,28,2,2
